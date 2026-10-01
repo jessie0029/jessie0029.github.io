@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.jessiehong.duohw",
+    "sha256_cert_fingerprints": ["0E:89:82:C8:E7:A5:05:23:D8:6F:90:00:D7:97:B3:4C:05:CE:B2:2E:D8:E4:DB:14:FA:AD:E2:F0:4D:46:85:C5"]
+  }
+}]
